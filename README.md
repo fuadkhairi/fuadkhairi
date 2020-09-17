@@ -2,7 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=fuadkhairi&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs,issues,stars)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuadkhairi&hide=TeX,Cuda&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuadkhairi&langs_count=8&hide=TeX,Cuda&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=fuadkhairi)
 

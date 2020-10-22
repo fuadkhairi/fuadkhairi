@@ -4,7 +4,6 @@
 
 - 🏢 I'm currently working at **Octopus Indonesia**
 - ⚙️ I use daily: `.kt`, `.java`, `.swift`
-- ⚡️ Fun fact: I'm a fan of Luffy
 
 ### 📫 You can reach me on:
 * Instagram: [@fuadkhairi](https://www.instagram.com/fuadkhairi/)

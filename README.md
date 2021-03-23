@@ -2,8 +2,9 @@
 
 #### I'm a Mobile Developer from Makassar, Indonesia.
 
-- 🏢 I'm currently working at **Octopus Indonesia**
-- ⚙️ I use daily: `.kt`, `.java`, `.swift`
+- I'm currently working at **Octopus Indonesia**
+- I use daily: `.kt`, `.java`, `.swift`
+- Familiar with `.xml`, `Constraint`, `Storyboard`, `XIB`, `SwiftUI`
 
 ### 📫 You can reach me on:
 * Instagram: [@fuadkhairi](https://www.instagram.com/fuadkhairi/)

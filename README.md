@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-#### I'm an iOS Developer from Makassar, Indonesia.
+#### I'm a Mobile Developer from Makassar, Indonesia.
 
-- I'm currently working at **Octopus Indonesia**
-- I use daily: `.swift`
+- I use daily: `.swift`, `.kotlin`, `.java`
 
 ### 📫 You can reach me on:
 * Instagram: [@fuadkhairi](https://www.instagram.com/fuadkhairi/)
